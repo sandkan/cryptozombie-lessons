@@ -1,36 +1,36 @@
 {
     "base": {
-        "name": "CryptoZombies",
-        "tagLine": "Learn to code games on Ethereum",
-        "lesson": "Lesson {lessonNum}",
-        "chapter": "Chapter {chapterNum}",
+        "name": "ක්රිප්ටෝ සොම්බි",
+        "tagLine": "ඉතෙරියම් බ්ලොක්චේන් එක මත ගේම් එකක් කෝඩ් කරන්න ඉගනගන්න.",
+        "lesson": "{lessonNum} වැනි පාඩම",
+        "chapter": "{chapterNum} වැනි පරිජ්චේදය",
         "syncing": "Synchronizing...",
         "telegram": {
-            "name": "Telegram",
-            "openChat": "Ask Question",
-            "action": "Join Our Telegram",
+            "name": "ටෙලිග්‍රෑම්",
+            "openChat": "ඔබට ඇති ප්‍රශ්නය විමසන්න",
+            "action": "අපගේ ටෙලිග්‍රෑම් සමුහය සමග සම්බන්ද වන්න",
             "link": "https://t.me/loomnetworkdev"
         },
         "twitter": {
-            "name": "Twitter",
+            "name": "ට්විටර්",
             "link": "https://twitter.com/loomnetwork"
         },
-        "find_source_code_repo": "You can find the source code for these lessons at <a href='https://github.com/loomnetwork/cryptozombies-lesson-code' target='_blank'> this Github repo</a>.",
+        "find_source_code_repo": "මෙහි ඇති පාඩම් වල කෝඩ් <a href='https://github.com/loomnetwork/cryptozombies-lesson-code' target='_blank'>මෙන්න මේ github රෙපෝ</a> එකෙන් බලන්න පුළුවන්.",
         "course" : [
             {
                 "id": "solidity",
-                "title": "Solidity Path: Beginner to Intermediate Smart Contracts",
-                "summary": "<p>So you think you have what it takes to become a <strong>CryptoZombie</strong>, huh?</p> <p>This course will teach you how to <strong>build a game on Ethereum</strong>.</p> It's designed for beginners to Solidity, but it assumes you have some experience programming in another language (e.g. Javascript)."
+                "title": "Solidity Path: මුලික ඉගැන්වීම් වල සිට අතරමැදි අවස්ථා දක්වා ස්මාට් කන්ට්‍රැක්ට් පිලිබදව ඉගැන්වීම",
+                "summary": "<p>ඔබ හිතනවද <strong>ක්රිප්ටෝ සොම්බි</strong> කෙනෙක් වෙන්න අවශ්‍ය දේවල් දන්නවා කියල?,</p> <p>මේ කෝස් එකෙන් ඔබ ඉගනගන්නවා <strong>කොහොමද ඉතීරියම් උඩ ගේම් එකක් හදන්නේ</strong>කියල.</p>මෙය සකස් කරලා තියෙන්නේ සොලිඩිටි වලට අලුත් අයට. නමුත් මෙහි උපකල්පනය කරනවා ඔබට යම් පරිගණක භාෂාවක දැනුම ඇති කියලා (උ.දා Javascript)."
             },
             {
                 "id": "chainlink",
-                "title": "Chainlink Path: Decentralized Oracles",
-                "summary": "Combine the real-world and all of its changes and information with our beloved zombies."
+                "title": "Chainlink Path: විමද්‍යගත ඔරකල්ස් (ඩීසෙන්ට්‍රලයිස් ඔරකල්ස්)",
+                "summary": "ඇත්ත ලෝකය, එහි වෙනස්වීම් සහ සියලු දත්ත අපේ ගේම් එකේ සොම්බි ලා සමග සම්බන්ද කරන්න."
             },
             {
                 "id": "solidity_advanced",
-                "title": "Advanced Solidity Path: Get In-depth Knowledge",
-                "summary": "<b>Testing Smart Contracts with Truffle</b> will teach you to: <br> - Test your smart contracts with Truffle against Ganache <br> - Use Chai to write more expressive assertions <br> - Test against Loom😉</p> <p><b>Deploying Ethereum DApps with Truffle</b> will walk you through the process of deploying your smart contracts with Truffle.</p>"
+                "title": "Advanced Solidity Path: සොලිඩිටි පිලිබදව උසස් දැනුමක් ලබාගන්න.",
+                "summary": "<b>Truffle(ට්රුෆල්) භාවිතාකොට ස්මාට් කන්ට්‍රැක්ට් ටෙස්ට් කිරීම</b> මගින් ඔබට: <br> - Test your smart contracts with Truffle against Ganache <br> - Use Chai to write more expressive assertions <br> - Test against Loom😉</p> <p><b>Deploying Ethereum DApps with Truffle</b> will walk you through the process of deploying your smart contracts with Truffle.</p>"
             },
             {
                 "id": "beyond_ethereum",
